@@ -11,8 +11,7 @@ These descriptive statistics provide an overview of the distribution of purchase
 ![Q-Q plot](https://github.com/vinodhinidevaraj/amazon_customer_behavior_survey_analysis/assets/145280558/b3c4768a-1f21-4010-9f16-11c2b94ad7c2)
 
 
-             
-Additionally, the Anderson-Darling test was conducted to assess the normality of the dataset. The test results indicate that at various significance levels (15%, 10%, 5%, 2.5%, and 1%), the dataset is not normally distributed. 
+       Additionally, the Anderson-Darling test was conducted to assess the normality of the dataset. The test results indicate that at various significance levels (15%, 10%, 5%, 2.5%, and 1%), the dataset is not normally distributed. 
 This means that the data's distribution significantly deviates from a normal distribution.  As a result, parametric statistical tests that assume normality may not be appropriate for this dataset, and alternative non-parametric methods may be more suitable for analysis.
 
 **Correlation analysis**
@@ -42,7 +41,7 @@ In this section, we conducted exploratory data analysis (EDA) using histogram pl
 
 
                       
-we applied K-means clustering to segment customers based on their behaviour using three key features: "Purchase Frequency," "Customer Reviews Importance," and "Shopping Satisfaction." The clustering process identified distinct groups of customers exhibiting similar behaviour patterns. The cluster centres represent the average values of each feature within each cluster. The cluster counts indicate the number of customers assigned to each cluster. By visualizing the clusters, we can observe the distribution of customers across different behaviour segments. This segmentation enables businesses to better understand their customer base and tailor marketing strategies and services to meet the specific needs and preferences of each cluster.
+K-means clustering to segment customers based on their behaviour using three key features: "Purchase Frequency," "Customer Reviews Importance," and "Shopping Satisfaction." The clustering process identified distinct groups of customers exhibiting similar behaviour patterns. The cluster centres represent the average values of each feature within each cluster. The cluster counts indicate the number of customers assigned to each cluster. By visualizing the clusters, we can observe the distribution of customers across different behaviour segments. This segmentation enables businesses to better understand their customer base and tailor marketing strategies and services to meet the specific needs and preferences of each cluster.
 
 
 
@@ -55,5 +54,6 @@ we applied K-means clustering to segment customers based on their behaviour usin
 In this analysis, we explored the most popular purchase categories within different age groups using the Amazon Customer Behavior Survey dataset. By grouping the data based on age group and purchase category, we counted the occurrences of each purchase category. The results revealed insightful patterns: among individuals under 18, "Clothing and Fashion; others" was the most popular category, while for the age group 18-35, "Clothing and Fashion" dominated with a considerable count of 83. Interestingly, the age group 36-55 showed a preference for "Beauty and Personal Care," with 23 occurrences, while individuals aged 56 and above also leaned towards "Beauty and Personal Care," albeit with a lower count of 5. Notably, the age group 18-35 emerged as the demographic with the maximum number of purchases, reinforcing the significance of understanding consumer behaviour within this cohort for targeted marketing strategies and product offerings.
 
 **Conclusion**
+
 The analysis of maximum shopping by gender in each age category reveals intriguing patterns that offer valuable insights into consumer behaviour within the dataset. Particularly, females aged 18-35 exhibit a notable presence across various purchase frequencies, indicating a strong engagement with Amazon's offerings. This demographic segment appears to be actively involved in shopping activities, with significant proportions of shopping less than once a month, once a month, and a few times a month. On the other hand, females under 18 predominantly engage in shopping activities a few times a week, suggesting a higher frequency of purchase behaviour among younger female consumers. The findings underscore the importance of understanding demographic differences in consumer behaviour, especially in the context of e-commerce platforms like Amazon. Such insights can inform targeted marketing strategies, product recommendations, and personalized experiences tailored to specific demographic segments. By recognizing and leveraging these patterns, businesses can optimize their approach to customer engagement and drive greater customer satisfaction and loyalty.
 
