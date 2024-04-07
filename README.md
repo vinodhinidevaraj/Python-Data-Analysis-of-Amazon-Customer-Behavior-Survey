@@ -3,9 +3,10 @@
 The Amazon Customer Behavior Survey analysis delves into understanding the behaviors, preferences, and sentiments of customers engaging with Amazon's platform. Through a comprehensive exploration of various factors such as purchase frequency, product search methods, personalized recommendations, and satisfaction levels, this analysis aims to uncover insights that can inform business strategies, improve customer experiences, and drive growth. By statistical techniques, visualization tools, and exploratory data analysis, the analysis sheds light on patterns, correlations, and trends within the dataset, providing valuable insights for decision-making and optimization in the e-commerce domain. The dataset consists of 602 observations and contains information on purchase frequency and browsing frequency.
  For purchase frequency, the data is divided into five categories, with "Few times a month" being the most frequently occurring category, accounting for 203 observations. Similarly, browsing frequency is classified into four categories, with "Few times a week" being the most prevalent, representing 249 observations. 
 These descriptive statistics provide an overview of the distribution of purchase and browsing habits among the surveyed individuals.
-![image](https://github.com/vinodhinidevaraj/amazon_customer_behavior_survey_analysis/assets/145280558/b70a1cec-8c3f-441e-bb89-c8ca119a8de9)
+![image](https://github.com/vinodhinidevaraj/amazon_customer_behavior_survey_analysis/assets/145280558/0dc45054-e732-4dd5-a913-6c4f71391022)
 
-![image](https://github.com/vinodhinidevaraj/amazon_customer_behavior_survey_analysis/assets/145280558/950a81a1-4da2-43b6-993a-019f0f8e9b56)
+
+![image](https://github.com/vinodhinidevaraj/amazon_customer_behavior_survey_analysis/assets/145280558/7a7bf5ea-428c-4b8f-8920-f45338db259d)
 
 
              
