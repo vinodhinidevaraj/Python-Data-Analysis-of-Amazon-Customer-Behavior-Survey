@@ -8,7 +8,7 @@ These descriptive statistics provide an overview of the distribution of purchase
 ![Normality Test histogram](https://github.com/vinodhinidevaraj/amazon_customer_behavior_survey_analysis/assets/145280558/5e6da5da-292a-4154-abd9-afba74b9aed2)
 
 
-![image](https://github.com/vinodhinidevaraj/amazon_customer_behavior_survey_analysis/assets/145280558/eb16f577-be2c-41e3-9f06-a780c74ebbf1)
+![Q-Q plot](https://github.com/vinodhinidevaraj/amazon_customer_behavior_survey_analysis/assets/145280558/b3c4768a-1f21-4010-9f16-11c2b94ad7c2)
 
 
              
