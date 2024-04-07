@@ -6,7 +6,7 @@ These descriptive statistics provide an overview of the distribution of purchase
 ![image](https://github.com/vinodhinidevaraj/amazon_customer_behavior_survey_analysis/assets/145280558/0dc45054-e732-4dd5-a913-6c4f71391022)
 
 
-![image](https://github.com/vinodhinidevaraj/amazon_customer_behavior_survey_analysis/assets/145280558/7a7bf5ea-428c-4b8f-8920-f45338db259d)
+![image](https://github.com/vinodhinidevaraj/amazon_customer_behavior_survey_analysis/assets/145280558/eb16f577-be2c-41e3-9f06-a780c74ebbf1)
 
 
              
